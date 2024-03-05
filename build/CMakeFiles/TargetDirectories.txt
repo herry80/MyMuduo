@@ -1,0 +1,6 @@
+/home/My/Desktop/project/MyMuduo/build/CMakeFiles/edit_cache.dir
+/home/My/Desktop/project/MyMuduo/build/CMakeFiles/rebuild_cache.dir
+/home/My/Desktop/project/MyMuduo/build/src/CMakeFiles/test.dir
+/home/My/Desktop/project/MyMuduo/build/src/CMakeFiles/MyMuduo.dir
+/home/My/Desktop/project/MyMuduo/build/src/CMakeFiles/edit_cache.dir
+/home/My/Desktop/project/MyMuduo/build/src/CMakeFiles/rebuild_cache.dir

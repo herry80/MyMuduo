@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -g CMakeFiles/test.dir/test/test.cpp.o -o ../../bin/test  -Wl,-rpath,/home/My/Desktop/project/MyMuduo/lib ../../lib/libMyMuduo.so 

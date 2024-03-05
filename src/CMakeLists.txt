@@ -1,0 +1,5 @@
+aux_source_directory(. SRC_LIST)
+aux_source_directory(./test TEST_LIST)
+add_executable(test ${TEST_LIST})
+target_link_libraries(test MyMuduo)
+add_library(MyMuduo SHARED ${SRC_LIST})
